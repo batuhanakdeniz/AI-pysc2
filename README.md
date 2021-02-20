@@ -236,4 +236,4 @@ in parallel.
 
 # Written Agents
 
-For finding written our agents, you can check customized.py, q-learning.py and sarsa.py files from directory pysc2/agents . 
+For finding our agents, you can check customized.py, qlearning.py and sarsa.py files from directory pysc2/agents . 
