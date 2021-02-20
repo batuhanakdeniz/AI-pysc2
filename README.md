@@ -233,3 +233,7 @@ binary.
 You can visualize the replays with the full game, or with `pysc2.bin.play`.
 Alternatively you can run `pysc2.bin.replay_actions` to process many replays
 in parallel.
+
+# Written Agents
+
+For finding written our agents, you can check customized.py, q-learning.py and sarsa.py files from directory pysc2/agents . 
